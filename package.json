@@ -1,5 +1,5 @@
 {
-  "name": "saas_espocrm_mobile-testing",
+  "name": "saas-espocrm-mobile-testing",
   "version": "1.0.0",
   "scripts": {
     "typecheck": "tsc --noEmit",
